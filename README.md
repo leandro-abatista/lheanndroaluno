@@ -10,6 +10,8 @@
 
 ![Leandro Github stats](https://github-readme-stats.vercel.app/api?username=lheanndroaluno&show_icons=true&theme=tokyonight)
 
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lheanndroaluno&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br>

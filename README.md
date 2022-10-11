@@ -1,4 +1,4 @@
-## Olá! Sou o Leandro Amorim 👏
+## Olá! Sou Leandro Amorim 👏
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
@@ -10,7 +10,7 @@
 
 ![Leandro Github stats](https://github-readme-stats.vercel.app/api?username=lheanndroaluno&show_icons=true&theme=tokyonight)
 
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lheanndroaluno&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lheanndroaluno&theme=tokyonight)
 
 ## Tecnologias que eu uso no meu dia a dia
 
